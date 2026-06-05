@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Informática", "Informática\Informática.csproj", "{F79116B3-0257-4A47-8D54-9B4E1B5FCFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79116B3-0257-4A47-8D54-9B4E1B5FCFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79116B3-0257-4A47-8D54-9B4E1B5FCFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79116B3-0257-4A47-8D54-9B4E1B5FCFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79116B3-0257-4A47-8D54-9B4E1B5FCFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87FF127E-C159-4498-B41D-19C6D9A163F6}
+	EndGlobalSection
+EndGlobal
